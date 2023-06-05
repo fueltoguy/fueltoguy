@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a website
+- 🔭 I’m currently working on a website and a vr chat client
 - 🌱 I’m currently learning c# and java
 - 🤔 I’m looking for help with c#
 - 😄 Pronouns: any
