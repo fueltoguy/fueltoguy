@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with c#
 - 😄 Pronouns: any
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fueltoguy&theme=buefy&layout=compact" />
-</a>
+[![fueltoguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fueltoguy)]
